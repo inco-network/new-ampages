@@ -1,0 +1,2 @@
+# new-ampages
+GitHub Pages
